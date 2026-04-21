@@ -3,7 +3,7 @@ on:
   push:
     branches: [ main ]
   pull_request:
-    branches: [ main ]
+    branches: [ main ] 
 
 # TODO#0: Declare workflow permissions.
 # Why scope per-workflow instead of repo-wide?
